@@ -76,7 +76,7 @@ This project is a modern and fully responsive phone catalog built with React, fe
    ```bash
    npm run dev
    ```
-5. Open your browser and go to [http://localhost:3000](http://localhost:5173) to view the project.
+5. Open your browser and go to [http://localhost:5173](http://localhost:5173) to view the project.
 
 ## 📚 Documentation
 
