@@ -1,1 +1,1 @@
-# Phone-catalog
+# React + TypeScript + Vite: Phone catalog
