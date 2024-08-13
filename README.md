@@ -66,7 +66,7 @@ This project is a modern and fully responsive phone catalog built with React, fe
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repository
+   cd Phone-catalog
    ```
 3. Install the dependencies:
    ```bash
