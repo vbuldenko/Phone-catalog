@@ -9,7 +9,7 @@
 
 ## 📖 Description
 
-This project is a modern and fully responsive phone catalog built with React, featuring a shopping cart and a favorites page. The application allows users to browse through a catalog of phones, add items to their cart, and mark their favorite products for easy access. The UI is designed based on a Figma mockup, ensuring a sleek and user-friendly experience. The app leverages various React hooks and libraries to provide efficient and smooth functionality, including real-time search with debounce, custom infinite carousel, and seamless state management with context and local storage.
+Fully responsive phone catalog built with React, featuring a shopping cart and a favorites page. The application allows to browse through a catalog of phones, add items to the cart, and mark favorite products for easy access. The UI is designed based on a Figma mockup. The app leverages React hooks and libraries to provide smooth functionality, including real-time search with debounce, custom infinite carousel, and state management with context and local storage.
 
 ## 🛠️ Technologies Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
