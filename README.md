@@ -1,11 +1,7 @@
 # React + TypeScript + Vite: Phone catalog
 
-- [Figma design of the app](https://www.figma.com/file/FRxncC4lfyhs6og1L6FGEU/Phone-catalog-(V2)-Rounded-Style-2?node-id=0%3A1)
-
-
-## 🚀 Demo
-
-- [Click here to view the demo](https://vbuldenko.github.io/react_phone-catalog/)
+- [Preview](https://vbuldenko.github.io/react_phone-catalog/)
+- [Mockup](<https://www.figma.com/file/FRxncC4lfyhs6og1L6FGEU/Phone-catalog-(V2)-Rounded-Style-2?node-id=0%3A1>)
 
 ## 📖 Description
 
@@ -25,37 +21,7 @@ Fully responsive phone catalog built with React, featuring a shopping cart and a
 - ⚡️ Custom Infinity Carousel (Slider)
 - 📄 Product Pagination
 - 🗂️ Filtering Options
-- 🔍 Product Search with Debounce
-- ✅ Valid HTML5 & CSS3
-- 🌐 Semantic Markup
-
-## 📂 Project Structure
-
-
-```
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   │   ├── Carousel.js
-│   │   ├── ProductCard.js
-│   │   ├── ...
-│   ├── pages
-│   │   ├── Catalog.js
-│   │   ├── Cart.js
-│   │   └── ...
-│   ├── hooks
-│   │   ├── useDebounce.js
-│   │   └── ...
-│   ├── context
-│   │   ├── CartContext.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-└── package.json
-```
+- 🔍 Product Search
 
 
 ## 🔧 Installation and Setup
@@ -77,23 +43,3 @@ Fully responsive phone catalog built with React, featuring a shopping cart and a
    npm run dev
    ```
 5. Open your browser and go to [http://localhost:5173](http://localhost:5173) to view the project.
-
-## 📚 Documentation
-
-### React Hooks Used
-
-- `useState`
-- `useContext`
-- `useEffect`
-- `useCallback`
-- `useMemo`
-- `useRef`
-- `useSearchParams`
-- `useParams`
-
-### Additional Libraries
-
-- React Router
-- Local Storage (for cart and favorites)
-- Debounce (for product search)
-"""
